@@ -1,0 +1,6 @@
+{
+  "name": "Omni-Earth Nexus",
+  "description": "Companion app for Project Omni-Earth simulation featuring high-thinking lore AI, concept art generation, and Veo video simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
